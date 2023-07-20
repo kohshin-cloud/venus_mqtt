@@ -122,6 +122,16 @@ Manual control payloads and topics are designed for manual control of the machin
     The payload for this topic should be `NozzleRotation`.
 
 ---
+#### 2.4 Nozzle UPP DOWN 
+#### 2.5 Running motors 
+#### 2.6 Steering Motors
+#### 2.7 Hose Reel motors
+#### 2.8 Hose Reel Pomp / Valve
+
+## 3. Robot Settings
+
+## 4. Logs
+
 
 ## Setting Up MQTT
 
